@@ -1,0 +1,14 @@
+.screen{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(59, 58, 58);
+    color:white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 5px;
+}
